@@ -1,4 +1,4 @@
-import { Twitter, Instagram, Youtube, Music, Coffee, Mail, Pen, Sparkles, Users, Github, Linkedin, User } from 'lucide-react'
+import {Github, Linkedin, User } from 'lucide-react'
 import Image from 'next/image'
 
 export default function Home() {
